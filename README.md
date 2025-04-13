@@ -1,7 +1,7 @@
-📊 Highlights of Our Project: 
-Investigated weather trends across Spain, Brazil, and Indonesia.
-Identified key correlations between temperature, humidity, precipitation, and UV index to predict extreme events like wildfires, flooding, and heatwaves.
-Cleaned and visualized a large weather dataset, analyzing over 32,000 rows of data from 205 countries.
+#About the Project: 
+- Investigated weather trends across Spain, Brazil, and Indonesia.
+- Identified key correlations between temperature, humidity, precipitation, and UV index to predict extreme events like wildfires, flooding, and heatwaves.
+- Cleaned and visualized a large weather dataset, analyzing over 32,000 rows of data from 205 countries.
 
 Key Insights:
 • Spain faces increasing heatwaves due to Mediterranean climatic conditions.
